@@ -1,9 +1,9 @@
 # Publications
 
 ## Peer Reviewed Journal Articles / 査読付き論文
-1. [**Hattori A.**, Otsubo T., Time-varying solar radiation pressure on Ajisai in comparison with LAGEOS satellites, *Advances in Space Research*, 63(1), pp63―72, 2019.](https://www.sciencedirect.com/science/article/pii/S0273117718306197)
-
 1. [**Hattori A.**, Aoyama Y., Okuno J., Doi K., GNSS observations of GIA-induced crustal deformation in Lützow-Holm Bay, East Antarctica, *Geophysical Research Letters*, accepted](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL093479)
+
+1. [**Hattori A.**, Otsubo T., Time-varying solar radiation pressure on Ajisai in comparison with LAGEOS satellites, *Advances in Space Research*, 63(1), pp63―72, 2019.](https://www.sciencedirect.com/science/article/pii/S0273117718306197)
 
 ## Others Articles / その他
 1. **服部晃久**, IWLR 2018 参加報告, 測地学会誌, 65巻, pp14-16, 2019.
