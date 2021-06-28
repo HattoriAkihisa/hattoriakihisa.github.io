@@ -37,10 +37,12 @@
 9. **服部晃久**, 大坪俊通,「経験的加速度の時間変化で探る衛星の摂動」, JpGU, 幕張, 2016年5月.
 
 ### Poster presentation
-1. **服部晃久**, 青山雄一, 土井浩一郎, 奥野淳一, Effect of seasonal snow-mass change on geodetic solutions at Syowa Station: elastic deformation and gravitational attraction, JpGU, オンライン, 2020年7月.
+1. **服部晃久**, 青山雄一, 奥野淳一, 土井浩一郎, GIA signal detected by GNSS observation along the coast of Lützow-Holm Bay, JpGU, オンライン, 2021年6月.
 
-1. **服部晃久**, 青山雄一, 土井浩一郎, 大石孟, 西島潤, 池田博, Gravity Effect of Local Snow Accumulation obtained from Superconducting Gravimeter and UAV survey at Syowa Station, JpGU, 幕張, 2019年5月.
+2. **服部晃久**, 青山雄一, 土井浩一郎, 奥野淳一, Effect of seasonal snow-mass change on geodetic solutions at Syowa Station: elastic deformation and gravitational attraction, JpGU, オンライン, 2020年7月.
 
-1. **服部晃久**, 青山雄一, 土井浩一郎, 大石孟, 西島潤, 池田博, 奥野淳一, Snowpack mapping at Syowa Station with UAV photogrammetry,『極域科学シンポジウム』,	立川, 2018年12月.
+3. **服部晃久**, 青山雄一, 土井浩一郎, 大石孟, 西島潤, 池田博, Gravity Effect of Local Snow Accumulation obtained from Superconducting Gravimeter and UAV survey at Syowa Station, JpGU, 幕張, 2019年5月.
 
-1. **服部晃久**, 大坪俊通, Time variation of solar radiation pressure acceleration acting on geodetic satellites, JpGU, 幕張, 2017年5月.
+4. **服部晃久**, 青山雄一, 土井浩一郎, 大石孟, 西島潤, 池田博, 奥野淳一, Snowpack mapping at Syowa Station with UAV photogrammetry,『極域科学シンポジウム』,	立川, 2018年12月.
+
+5. **服部晃久**, 大坪俊通, Time variation of solar radiation pressure acceleration acting on geodetic satellites, JpGU, 幕張, 2017年5月.
